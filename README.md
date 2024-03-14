@@ -7,14 +7,9 @@
 </p>
 
 ## 📟 GitHub Stats
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api?username=Xiaozuoyi&show_icons=true&theme=radical&include_all_commits=true"
-    alt="Xiaozuoyi" />
-</p>
-
-<p>
-  &nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaozuoyi&theme=radical&layout=compact"
-    alt="Xiaozuoyi" />
-</p>
+<a href="https://github.com/pulls?q=author%3AXiaozuoyi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xiaozuoyi&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/pulls?q=author%3AXiaozuoyi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xiaozuoyi&theme=dark&layout=compact&langs_count=8&card_width=430#gh-dark-mode-only" />
+</a>
